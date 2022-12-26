@@ -1,0 +1,12 @@
+:root {
+--primary-text-color: rgba(67, 68, 85, 1);
+--title-text-color: rgba(46, 47, 66, 1);
+--accent-color: rgba(0, 0, 0, 0.15);
+
+    
+
+}
+
+body {
+    background-color: #E5E5E5;
+}
