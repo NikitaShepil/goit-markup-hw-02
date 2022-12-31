@@ -11,7 +11,7 @@
 }
 
 body {
-    background-color: var(--text-color);
+    background-color: white;
     font-family: 'Roboto',sans-serif;
 }
 li{
