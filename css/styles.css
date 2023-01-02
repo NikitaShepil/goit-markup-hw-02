@@ -25,6 +25,7 @@ li{
     font-family: 'Raleway';
     color: var(--seccondary-logo-color);
     text-decoration: none;
+    text-transform: uppercase;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.33;
@@ -32,16 +33,15 @@ li{
 
 }
  .logo-title-secondary{
-    font-family: 'Raleway';
+    
     color: var(--title-text-color);
-    text-decoration: none;
-    font-weight: 800;
-font-size: 18px;
-line-height: 1.33;
-letter-spacing: 0.03em;
+    
+   
+    
  }
 
  .navigate-item{color: var(--title-text-color);
+   
     text-decoration: none;
     font-weight: 500;
 font-size: 16px;
@@ -55,11 +55,13 @@ letter-spacing: 0.02em;
    color: var(--seccondary-logo-color);
  }
  .head-link{
+   font-style: normal;
     color: var(--primary-text-color);
     text-decoration: none;
     font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
+
  }
  .head-link:hover,
  .head-link:focus{
@@ -169,6 +171,7 @@ letter-spacing: 0.02em;
  .fotter-logo{
     font-family: 'Raleway';
     color: var(--seccondary-logo-color);
+    text-transform: uppercase;
     font-weight: 800;
 font-size: 18px;
 line-height: 1.16px;
@@ -196,6 +199,9 @@ letter-spacing: 0.02em;
  
  .portfilio-btn{
    font-family:'Roboto',sans-serif ;
+   font-weight: 500;
+   font-size: 16px;
+line-height: 1.5;
     color: var(--seccondary-logo-color);
     background-color: var(--fotter-text);
     cursor: pointer;
